@@ -1,8 +1,8 @@
 /*
+Created by Dorayne McKern
+12/5/2016
+
 Euler's Method for calculating differential equations
-To-Do:
-	- Accept user input
-	- Use the math library for functions? Set up to accept TI levels of input
 */
 
 #include <iostream>
