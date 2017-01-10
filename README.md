@@ -1,6 +1,6 @@
 # EulersMethod
 
-This is something I wrote quickly to use Euler's Method for solving differential equations.
+This is something I wrote quickly to use Euler's Method for calculating differential equations.
 
 The differential equation, initial values, horizontal step, and goal x-value are all hard coded.
 
